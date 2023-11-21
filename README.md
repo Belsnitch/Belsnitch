@@ -6,7 +6,7 @@
 
 💻 Proficient in HTML, CSS, JavaScript, Python, and a bit of C#. Experienced in streamlining acquisitions, establishing vendor relationships, and contributing to technology-driven initiatives.
 
-🌐 GitHub: [Your GitHub Username]
+🌐 GitHub: Belsnitch
 - Check out my repositories for projects in web development, algorithmic problem-solving, and more.
 - Actively contributing to open-source projects and collaborating with the tech community.
 
