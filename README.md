@@ -1,16 +1,15 @@
-### Hi there 👋
+🚀 Aspiring IT Professional | Full Stack Developer | Tech Enthusiast
 
-<!--
-**Belsnitch/Belsnitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently pursuing a Bachelor's in Computer Science with a focus on web development, cybersecurity, and cutting-edge programming languages. Expected graduation in May 2023 with a current GPA of 3.9.
 
-Here are some ideas to get you started:
+💡 Proven track record as a Purchasing Coordinator at BahFed Corp, optimizing procurement processes, managing budgets, and fostering cross-departmental collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Proficient in HTML, CSS, JavaScript, Python, and a bit of C#. Experienced in streamlining acquisitions, establishing vendor relationships, and contributing to technology-driven initiatives.
+
+🌐 GitHub: [Your GitHub Username]
+- Check out my repositories for projects in web development, algorithmic problem-solving, and more.
+- Actively contributing to open-source projects and collaborating with the tech community.
+
+🔍 Open to exciting opportunities in Web Development, Python Development, Javascript Development, Help Desk Specialist, and Information Technology Specialist roles.
+
+Let's connect and collaborate on innovative projects! 💬
